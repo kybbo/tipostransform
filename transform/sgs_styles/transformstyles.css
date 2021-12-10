@@ -16,7 +16,7 @@ div{
 }
 
 .translate:hover{
-	transform: translate(0px,100px);
+	transform: translate(0px,50px);
 }
 
 .scale:hover{
